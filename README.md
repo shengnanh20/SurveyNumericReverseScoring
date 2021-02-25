@@ -1,3 +1,2 @@
 # SurveyNumericReverseScoring
-Reverse Scoring Code for Survey Files in ASIST Study-2
-
+Reverse Scoring Code for Survey Files in ASIST Study-2.
