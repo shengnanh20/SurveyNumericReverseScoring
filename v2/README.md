@@ -5,7 +5,7 @@
 
 
 ## Usage
-To output the reversed scores and mean score, update the paths and reverse_que_list in 'dataloader.py' use the following command:
+To output the reversed scores and mean score, update the paths and reverse_que_list in 'dataloader.py' and use the following command:
 
 `python3 dataloader.py`
 
